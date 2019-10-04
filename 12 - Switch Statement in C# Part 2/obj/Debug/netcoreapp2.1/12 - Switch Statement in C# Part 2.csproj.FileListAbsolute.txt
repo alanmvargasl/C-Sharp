@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\12 - Switch Statement in C# Part 2\bin\Debug\netcoreapp2.1\12 - Switch Statement in C# Part 2.deps.json
+C:\Github\C-Sharp\12 - Switch Statement in C# Part 2\bin\Debug\netcoreapp2.1\12 - Switch Statement in C# Part 2.runtimeconfig.json
+C:\Github\C-Sharp\12 - Switch Statement in C# Part 2\bin\Debug\netcoreapp2.1\12 - Switch Statement in C# Part 2.runtimeconfig.dev.json
+C:\Github\C-Sharp\12 - Switch Statement in C# Part 2\bin\Debug\netcoreapp2.1\12 - Switch Statement in C# Part 2.dll
+C:\Github\C-Sharp\12 - Switch Statement in C# Part 2\bin\Debug\netcoreapp2.1\12 - Switch Statement in C# Part 2.pdb
+C:\Github\C-Sharp\12 - Switch Statement in C# Part 2\obj\Debug\netcoreapp2.1\12 - Switch Statement in C# Part 2.csprojAssemblyReference.cache
+C:\Github\C-Sharp\12 - Switch Statement in C# Part 2\obj\Debug\netcoreapp2.1\12 - Switch Statement in C# Part 2.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\12 - Switch Statement in C# Part 2\obj\Debug\netcoreapp2.1\12 - Switch Statement in C# Part 2.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\12 - Switch Statement in C# Part 2\obj\Debug\netcoreapp2.1\12 - Switch Statement in C# Part 2.AssemblyInfo.cs
+C:\Github\C-Sharp\12 - Switch Statement in C# Part 2\obj\Debug\netcoreapp2.1\12 - Switch Statement in C# Part 2.dll
+C:\Github\C-Sharp\12 - Switch Statement in C# Part 2\obj\Debug\netcoreapp2.1\12 - Switch Statement in C# Part 2.pdb
