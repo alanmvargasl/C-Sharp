@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\6 - Nullable Types\bin\Debug\netcoreapp2.1\6 - Nullable Types.deps.json
+C:\Github\C-Sharp\6 - Nullable Types\bin\Debug\netcoreapp2.1\6 - Nullable Types.runtimeconfig.json
+C:\Github\C-Sharp\6 - Nullable Types\bin\Debug\netcoreapp2.1\6 - Nullable Types.runtimeconfig.dev.json
+C:\Github\C-Sharp\6 - Nullable Types\bin\Debug\netcoreapp2.1\6 - Nullable Types.dll
+C:\Github\C-Sharp\6 - Nullable Types\bin\Debug\netcoreapp2.1\6 - Nullable Types.pdb
+C:\Github\C-Sharp\6 - Nullable Types\obj\Debug\netcoreapp2.1\6 - Nullable Types.csprojAssemblyReference.cache
+C:\Github\C-Sharp\6 - Nullable Types\obj\Debug\netcoreapp2.1\6 - Nullable Types.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\6 - Nullable Types\obj\Debug\netcoreapp2.1\6 - Nullable Types.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\6 - Nullable Types\obj\Debug\netcoreapp2.1\6 - Nullable Types.AssemblyInfo.cs
+C:\Github\C-Sharp\6 - Nullable Types\obj\Debug\netcoreapp2.1\6 - Nullable Types.dll
+C:\Github\C-Sharp\6 - Nullable Types\obj\Debug\netcoreapp2.1\6 - Nullable Types.pdb
