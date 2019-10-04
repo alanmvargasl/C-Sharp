@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\2 - Reading And Writing\bin\Debug\netcoreapp2.1\2 - Reading And Writing.deps.json
+C:\Github\C-Sharp\2 - Reading And Writing\bin\Debug\netcoreapp2.1\2 - Reading And Writing.runtimeconfig.json
+C:\Github\C-Sharp\2 - Reading And Writing\bin\Debug\netcoreapp2.1\2 - Reading And Writing.runtimeconfig.dev.json
+C:\Github\C-Sharp\2 - Reading And Writing\bin\Debug\netcoreapp2.1\2 - Reading And Writing.dll
+C:\Github\C-Sharp\2 - Reading And Writing\bin\Debug\netcoreapp2.1\2 - Reading And Writing.pdb
+C:\Github\C-Sharp\2 - Reading And Writing\obj\Debug\netcoreapp2.1\2 - Reading And Writing.csprojAssemblyReference.cache
+C:\Github\C-Sharp\2 - Reading And Writing\obj\Debug\netcoreapp2.1\2 - Reading And Writing.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\2 - Reading And Writing\obj\Debug\netcoreapp2.1\2 - Reading And Writing.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\2 - Reading And Writing\obj\Debug\netcoreapp2.1\2 - Reading And Writing.AssemblyInfo.cs
+C:\Github\C-Sharp\2 - Reading And Writing\obj\Debug\netcoreapp2.1\2 - Reading And Writing.dll
+C:\Github\C-Sharp\2 - Reading And Writing\obj\Debug\netcoreapp2.1\2 - Reading And Writing.pdb
