@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\7 - Datatypes Conversion\bin\Debug\netcoreapp2.1\7 - Datatypes Conversion.deps.json
+C:\Github\C-Sharp\7 - Datatypes Conversion\bin\Debug\netcoreapp2.1\7 - Datatypes Conversion.runtimeconfig.json
+C:\Github\C-Sharp\7 - Datatypes Conversion\bin\Debug\netcoreapp2.1\7 - Datatypes Conversion.runtimeconfig.dev.json
+C:\Github\C-Sharp\7 - Datatypes Conversion\bin\Debug\netcoreapp2.1\7 - Datatypes Conversion.dll
+C:\Github\C-Sharp\7 - Datatypes Conversion\bin\Debug\netcoreapp2.1\7 - Datatypes Conversion.pdb
+C:\Github\C-Sharp\7 - Datatypes Conversion\obj\Debug\netcoreapp2.1\7 - Datatypes Conversion.csprojAssemblyReference.cache
+C:\Github\C-Sharp\7 - Datatypes Conversion\obj\Debug\netcoreapp2.1\7 - Datatypes Conversion.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\7 - Datatypes Conversion\obj\Debug\netcoreapp2.1\7 - Datatypes Conversion.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\7 - Datatypes Conversion\obj\Debug\netcoreapp2.1\7 - Datatypes Conversion.AssemblyInfo.cs
+C:\Github\C-Sharp\7 - Datatypes Conversion\obj\Debug\netcoreapp2.1\7 - Datatypes Conversion.dll
+C:\Github\C-Sharp\7 - Datatypes Conversion\obj\Debug\netcoreapp2.1\7 - Datatypes Conversion.pdb
