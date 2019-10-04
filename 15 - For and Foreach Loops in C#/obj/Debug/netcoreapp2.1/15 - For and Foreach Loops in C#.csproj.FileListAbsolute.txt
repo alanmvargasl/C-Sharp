@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\15 - For and Foreach Loops in C#\obj\Debug\netcoreapp2.1\15 - For and Foreach Loops in C#.csprojAssemblyReference.cache
+C:\Github\C-Sharp\15 - For and Foreach Loops in C#\obj\Debug\netcoreapp2.1\15 - For and Foreach Loops in C#.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\15 - For and Foreach Loops in C#\obj\Debug\netcoreapp2.1\15 - For and Foreach Loops in C#.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\15 - For and Foreach Loops in C#\obj\Debug\netcoreapp2.1\15 - For and Foreach Loops in C#.AssemblyInfo.cs
+C:\Github\C-Sharp\15 - For and Foreach Loops in C#\bin\Debug\netcoreapp2.1\15 - For and Foreach Loops in C#.deps.json
+C:\Github\C-Sharp\15 - For and Foreach Loops in C#\bin\Debug\netcoreapp2.1\15 - For and Foreach Loops in C#.runtimeconfig.json
+C:\Github\C-Sharp\15 - For and Foreach Loops in C#\bin\Debug\netcoreapp2.1\15 - For and Foreach Loops in C#.runtimeconfig.dev.json
+C:\Github\C-Sharp\15 - For and Foreach Loops in C#\bin\Debug\netcoreapp2.1\15 - For and Foreach Loops in C#.dll
+C:\Github\C-Sharp\15 - For and Foreach Loops in C#\bin\Debug\netcoreapp2.1\15 - For and Foreach Loops in C#.pdb
+C:\Github\C-Sharp\15 - For and Foreach Loops in C#\obj\Debug\netcoreapp2.1\15 - For and Foreach Loops in C#.dll
+C:\Github\C-Sharp\15 - For and Foreach Loops in C#\obj\Debug\netcoreapp2.1\15 - For and Foreach Loops in C#.pdb
