@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\4 - String Type in C#\bin\Debug\netcoreapp2.1\4 - String Type in C#.deps.json
+C:\Github\C-Sharp\4 - String Type in C#\bin\Debug\netcoreapp2.1\4 - String Type in C#.runtimeconfig.json
+C:\Github\C-Sharp\4 - String Type in C#\bin\Debug\netcoreapp2.1\4 - String Type in C#.runtimeconfig.dev.json
+C:\Github\C-Sharp\4 - String Type in C#\bin\Debug\netcoreapp2.1\4 - String Type in C#.dll
+C:\Github\C-Sharp\4 - String Type in C#\bin\Debug\netcoreapp2.1\4 - String Type in C#.pdb
+C:\Github\C-Sharp\4 - String Type in C#\obj\Debug\netcoreapp2.1\4 - String Type in C#.csprojAssemblyReference.cache
+C:\Github\C-Sharp\4 - String Type in C#\obj\Debug\netcoreapp2.1\4 - String Type in C#.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\4 - String Type in C#\obj\Debug\netcoreapp2.1\4 - String Type in C#.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\4 - String Type in C#\obj\Debug\netcoreapp2.1\4 - String Type in C#.AssemblyInfo.cs
+C:\Github\C-Sharp\4 - String Type in C#\obj\Debug\netcoreapp2.1\4 - String Type in C#.dll
+C:\Github\C-Sharp\4 - String Type in C#\obj\Debug\netcoreapp2.1\4 - String Type in C#.pdb
