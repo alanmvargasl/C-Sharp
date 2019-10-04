@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\8 - Arrays\obj\Debug\netcoreapp2.1\8 - Arrays.csprojAssemblyReference.cache
+C:\Github\C-Sharp\8 - Arrays\obj\Debug\netcoreapp2.1\8 - Arrays.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\8 - Arrays\obj\Debug\netcoreapp2.1\8 - Arrays.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\8 - Arrays\obj\Debug\netcoreapp2.1\8 - Arrays.AssemblyInfo.cs
+C:\Github\C-Sharp\8 - Arrays\bin\Debug\netcoreapp2.1\8 - Arrays.deps.json
+C:\Github\C-Sharp\8 - Arrays\bin\Debug\netcoreapp2.1\8 - Arrays.runtimeconfig.json
+C:\Github\C-Sharp\8 - Arrays\bin\Debug\netcoreapp2.1\8 - Arrays.runtimeconfig.dev.json
+C:\Github\C-Sharp\8 - Arrays\bin\Debug\netcoreapp2.1\8 - Arrays.dll
+C:\Github\C-Sharp\8 - Arrays\bin\Debug\netcoreapp2.1\8 - Arrays.pdb
+C:\Github\C-Sharp\8 - Arrays\obj\Debug\netcoreapp2.1\8 - Arrays.dll
+C:\Github\C-Sharp\8 - Arrays\obj\Debug\netcoreapp2.1\8 - Arrays.pdb
