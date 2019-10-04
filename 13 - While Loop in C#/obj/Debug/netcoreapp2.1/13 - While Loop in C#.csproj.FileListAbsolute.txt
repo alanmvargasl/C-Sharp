@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\13 - While Loop in C#\bin\Debug\netcoreapp2.1\13 - While Loop in C#.deps.json
+C:\Github\C-Sharp\13 - While Loop in C#\bin\Debug\netcoreapp2.1\13 - While Loop in C#.runtimeconfig.json
+C:\Github\C-Sharp\13 - While Loop in C#\bin\Debug\netcoreapp2.1\13 - While Loop in C#.runtimeconfig.dev.json
+C:\Github\C-Sharp\13 - While Loop in C#\bin\Debug\netcoreapp2.1\13 - While Loop in C#.dll
+C:\Github\C-Sharp\13 - While Loop in C#\bin\Debug\netcoreapp2.1\13 - While Loop in C#.pdb
+C:\Github\C-Sharp\13 - While Loop in C#\obj\Debug\netcoreapp2.1\13 - While Loop in C#.csprojAssemblyReference.cache
+C:\Github\C-Sharp\13 - While Loop in C#\obj\Debug\netcoreapp2.1\13 - While Loop in C#.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\13 - While Loop in C#\obj\Debug\netcoreapp2.1\13 - While Loop in C#.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\13 - While Loop in C#\obj\Debug\netcoreapp2.1\13 - While Loop in C#.AssemblyInfo.cs
+C:\Github\C-Sharp\13 - While Loop in C#\obj\Debug\netcoreapp2.1\13 - While Loop in C#.dll
+C:\Github\C-Sharp\13 - While Loop in C#\obj\Debug\netcoreapp2.1\13 - While Loop in C#.pdb
