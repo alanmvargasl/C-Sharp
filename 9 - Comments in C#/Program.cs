@@ -17,6 +17,8 @@ namespace _9___Comments_in_C_
            Alt + Shift + A = Comments all things selected.
            
             */
+
+            /// XML Documentation Summary!       
         }
     }
 }
