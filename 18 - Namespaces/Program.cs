@@ -1,5 +1,5 @@
 ﻿using System;
-using new_namespace; //This tutorial explains how to create a namespace and use it in other programs.
+//using new_namespace; 
 
 namespace _18___Namespaces
 {

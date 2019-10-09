@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\18 - Namespaces\bin\Debug\netcoreapp2.1\18 - Namespaces.deps.json
+C:\Github\C-Sharp\18 - Namespaces\bin\Debug\netcoreapp2.1\18 - Namespaces.runtimeconfig.json
+C:\Github\C-Sharp\18 - Namespaces\bin\Debug\netcoreapp2.1\18 - Namespaces.runtimeconfig.dev.json
+C:\Github\C-Sharp\18 - Namespaces\bin\Debug\netcoreapp2.1\18 - Namespaces.dll
+C:\Github\C-Sharp\18 - Namespaces\bin\Debug\netcoreapp2.1\18 - Namespaces.pdb
+C:\Github\C-Sharp\18 - Namespaces\obj\Debug\netcoreapp2.1\18 - Namespaces.csprojAssemblyReference.cache
+C:\Github\C-Sharp\18 - Namespaces\obj\Debug\netcoreapp2.1\18 - Namespaces.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\18 - Namespaces\obj\Debug\netcoreapp2.1\18 - Namespaces.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\18 - Namespaces\obj\Debug\netcoreapp2.1\18 - Namespaces.AssemblyInfo.cs
+C:\Github\C-Sharp\18 - Namespaces\obj\Debug\netcoreapp2.1\18 - Namespaces.dll
+C:\Github\C-Sharp\18 - Namespaces\obj\Debug\netcoreapp2.1\18 - Namespaces.pdb

@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\19 - Introduccion to Classes\bin\Debug\netcoreapp2.1\19 - Introduccion to Classes.deps.json
+C:\Github\C-Sharp\19 - Introduccion to Classes\bin\Debug\netcoreapp2.1\19 - Introduccion to Classes.runtimeconfig.json
+C:\Github\C-Sharp\19 - Introduccion to Classes\bin\Debug\netcoreapp2.1\19 - Introduccion to Classes.runtimeconfig.dev.json
+C:\Github\C-Sharp\19 - Introduccion to Classes\bin\Debug\netcoreapp2.1\19 - Introduccion to Classes.dll
+C:\Github\C-Sharp\19 - Introduccion to Classes\bin\Debug\netcoreapp2.1\19 - Introduccion to Classes.pdb
+C:\Github\C-Sharp\19 - Introduccion to Classes\obj\Debug\netcoreapp2.1\19 - Introduccion to Classes.csprojAssemblyReference.cache
+C:\Github\C-Sharp\19 - Introduccion to Classes\obj\Debug\netcoreapp2.1\19 - Introduccion to Classes.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\19 - Introduccion to Classes\obj\Debug\netcoreapp2.1\19 - Introduccion to Classes.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\19 - Introduccion to Classes\obj\Debug\netcoreapp2.1\19 - Introduccion to Classes.AssemblyInfo.cs
+C:\Github\C-Sharp\19 - Introduccion to Classes\obj\Debug\netcoreapp2.1\19 - Introduccion to Classes.dll
+C:\Github\C-Sharp\19 - Introduccion to Classes\obj\Debug\netcoreapp2.1\19 - Introduccion to Classes.pdb

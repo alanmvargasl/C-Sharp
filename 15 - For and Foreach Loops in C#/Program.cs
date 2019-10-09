@@ -8,7 +8,6 @@ namespace _15___For_and_Foreach_Loops_in_C_
         {
         Console.WriteLine("1 -  Even Numbers \n 2 -  Odd Numbers");
         
-        int increment = 2;
         int option = int.Parse(Console.ReadLine());
         switch (option)
         {   

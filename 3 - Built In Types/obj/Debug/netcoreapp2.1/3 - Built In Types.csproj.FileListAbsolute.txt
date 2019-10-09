@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\3 - Built In Types\bin\Debug\netcoreapp2.1\3 - Built In Types.deps.json
+C:\Github\C-Sharp\3 - Built In Types\bin\Debug\netcoreapp2.1\3 - Built In Types.runtimeconfig.json
+C:\Github\C-Sharp\3 - Built In Types\bin\Debug\netcoreapp2.1\3 - Built In Types.runtimeconfig.dev.json
+C:\Github\C-Sharp\3 - Built In Types\bin\Debug\netcoreapp2.1\3 - Built In Types.dll
+C:\Github\C-Sharp\3 - Built In Types\bin\Debug\netcoreapp2.1\3 - Built In Types.pdb
+C:\Github\C-Sharp\3 - Built In Types\obj\Debug\netcoreapp2.1\3 - Built In Types.csprojAssemblyReference.cache
+C:\Github\C-Sharp\3 - Built In Types\obj\Debug\netcoreapp2.1\3 - Built In Types.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\3 - Built In Types\obj\Debug\netcoreapp2.1\3 - Built In Types.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\3 - Built In Types\obj\Debug\netcoreapp2.1\3 - Built In Types.AssemblyInfo.cs
+C:\Github\C-Sharp\3 - Built In Types\obj\Debug\netcoreapp2.1\3 - Built In Types.dll
+C:\Github\C-Sharp\3 - Built In Types\obj\Debug\netcoreapp2.1\3 - Built In Types.pdb
