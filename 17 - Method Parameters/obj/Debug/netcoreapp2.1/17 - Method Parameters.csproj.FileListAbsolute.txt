@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\17 - Method Parameters\bin\Debug\netcoreapp2.1\17 - Method Parameters.deps.json
+C:\Github\C-Sharp\17 - Method Parameters\bin\Debug\netcoreapp2.1\17 - Method Parameters.runtimeconfig.json
+C:\Github\C-Sharp\17 - Method Parameters\bin\Debug\netcoreapp2.1\17 - Method Parameters.runtimeconfig.dev.json
+C:\Github\C-Sharp\17 - Method Parameters\bin\Debug\netcoreapp2.1\17 - Method Parameters.dll
+C:\Github\C-Sharp\17 - Method Parameters\bin\Debug\netcoreapp2.1\17 - Method Parameters.pdb
+C:\Github\C-Sharp\17 - Method Parameters\obj\Debug\netcoreapp2.1\17 - Method Parameters.csprojAssemblyReference.cache
+C:\Github\C-Sharp\17 - Method Parameters\obj\Debug\netcoreapp2.1\17 - Method Parameters.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\17 - Method Parameters\obj\Debug\netcoreapp2.1\17 - Method Parameters.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\17 - Method Parameters\obj\Debug\netcoreapp2.1\17 - Method Parameters.AssemblyInfo.cs
+C:\Github\C-Sharp\17 - Method Parameters\obj\Debug\netcoreapp2.1\17 - Method Parameters.dll
+C:\Github\C-Sharp\17 - Method Parameters\obj\Debug\netcoreapp2.1\17 - Method Parameters.pdb
