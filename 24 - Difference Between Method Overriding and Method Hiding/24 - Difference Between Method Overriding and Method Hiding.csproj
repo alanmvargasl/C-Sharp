@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_24___Difference_Between_Method_Overriding_and_Method_Hiding</RootNamespace>
+  </PropertyGroup>
+
+</Project>
