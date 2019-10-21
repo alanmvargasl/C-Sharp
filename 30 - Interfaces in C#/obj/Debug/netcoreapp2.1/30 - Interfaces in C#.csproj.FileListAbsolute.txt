@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\30 - Interfaces in C#\bin\Debug\netcoreapp2.1\30 - Interfaces in C#.deps.json
+C:\Github\C-Sharp\30 - Interfaces in C#\bin\Debug\netcoreapp2.1\30 - Interfaces in C#.runtimeconfig.json
+C:\Github\C-Sharp\30 - Interfaces in C#\bin\Debug\netcoreapp2.1\30 - Interfaces in C#.runtimeconfig.dev.json
+C:\Github\C-Sharp\30 - Interfaces in C#\bin\Debug\netcoreapp2.1\30 - Interfaces in C#.dll
+C:\Github\C-Sharp\30 - Interfaces in C#\bin\Debug\netcoreapp2.1\30 - Interfaces in C#.pdb
+C:\Github\C-Sharp\30 - Interfaces in C#\obj\Debug\netcoreapp2.1\30 - Interfaces in C#.csprojAssemblyReference.cache
+C:\Github\C-Sharp\30 - Interfaces in C#\obj\Debug\netcoreapp2.1\30 - Interfaces in C#.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\30 - Interfaces in C#\obj\Debug\netcoreapp2.1\30 - Interfaces in C#.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\30 - Interfaces in C#\obj\Debug\netcoreapp2.1\30 - Interfaces in C#.AssemblyInfo.cs
+C:\Github\C-Sharp\30 - Interfaces in C#\obj\Debug\netcoreapp2.1\30 - Interfaces in C#.dll
+C:\Github\C-Sharp\30 - Interfaces in C#\obj\Debug\netcoreapp2.1\30 - Interfaces in C#.pdb
