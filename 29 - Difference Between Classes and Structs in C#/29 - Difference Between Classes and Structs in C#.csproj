@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_29___Difference_Between_Classes_and_Structs_in_C_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
