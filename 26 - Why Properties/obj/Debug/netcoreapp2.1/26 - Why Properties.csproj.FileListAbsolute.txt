@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\26 - Why Properties\obj\Debug\netcoreapp2.1\26 - Why Properties.csprojAssemblyReference.cache
+C:\Github\C-Sharp\26 - Why Properties\obj\Debug\netcoreapp2.1\26 - Why Properties.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\26 - Why Properties\obj\Debug\netcoreapp2.1\26 - Why Properties.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\26 - Why Properties\obj\Debug\netcoreapp2.1\26 - Why Properties.AssemblyInfo.cs
+C:\Github\C-Sharp\26 - Why Properties\bin\Debug\netcoreapp2.1\26 - Why Properties.deps.json
+C:\Github\C-Sharp\26 - Why Properties\bin\Debug\netcoreapp2.1\26 - Why Properties.runtimeconfig.json
+C:\Github\C-Sharp\26 - Why Properties\bin\Debug\netcoreapp2.1\26 - Why Properties.runtimeconfig.dev.json
+C:\Github\C-Sharp\26 - Why Properties\bin\Debug\netcoreapp2.1\26 - Why Properties.dll
+C:\Github\C-Sharp\26 - Why Properties\bin\Debug\netcoreapp2.1\26 - Why Properties.pdb
+C:\Github\C-Sharp\26 - Why Properties\obj\Debug\netcoreapp2.1\26 - Why Properties.dll
+C:\Github\C-Sharp\26 - Why Properties\obj\Debug\netcoreapp2.1\26 - Why Properties.pdb
