@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\35 - Multiple class inheritance using interfaces\bin\Debug\netcoreapp2.1\35 - Multiple class inheritance using interfaces.deps.json
+C:\Github\C-Sharp\35 - Multiple class inheritance using interfaces\bin\Debug\netcoreapp2.1\35 - Multiple class inheritance using interfaces.runtimeconfig.json
+C:\Github\C-Sharp\35 - Multiple class inheritance using interfaces\bin\Debug\netcoreapp2.1\35 - Multiple class inheritance using interfaces.runtimeconfig.dev.json
+C:\Github\C-Sharp\35 - Multiple class inheritance using interfaces\bin\Debug\netcoreapp2.1\35 - Multiple class inheritance using interfaces.dll
+C:\Github\C-Sharp\35 - Multiple class inheritance using interfaces\bin\Debug\netcoreapp2.1\35 - Multiple class inheritance using interfaces.pdb
+C:\Github\C-Sharp\35 - Multiple class inheritance using interfaces\obj\Debug\netcoreapp2.1\35 - Multiple class inheritance using interfaces.csprojAssemblyReference.cache
+C:\Github\C-Sharp\35 - Multiple class inheritance using interfaces\obj\Debug\netcoreapp2.1\35 - Multiple class inheritance using interfaces.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\35 - Multiple class inheritance using interfaces\obj\Debug\netcoreapp2.1\35 - Multiple class inheritance using interfaces.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\35 - Multiple class inheritance using interfaces\obj\Debug\netcoreapp2.1\35 - Multiple class inheritance using interfaces.AssemblyInfo.cs
+C:\Github\C-Sharp\35 - Multiple class inheritance using interfaces\obj\Debug\netcoreapp2.1\35 - Multiple class inheritance using interfaces.dll
+C:\Github\C-Sharp\35 - Multiple class inheritance using interfaces\obj\Debug\netcoreapp2.1\35 - Multiple class inheritance using interfaces.pdb
