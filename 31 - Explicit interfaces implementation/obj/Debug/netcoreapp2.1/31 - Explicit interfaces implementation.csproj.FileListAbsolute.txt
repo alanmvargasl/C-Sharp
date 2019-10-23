@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\31 - Explicit interfaces implementation\bin\Debug\netcoreapp2.1\31 - Explicit interfaces implementation.deps.json
+C:\Github\C-Sharp\31 - Explicit interfaces implementation\bin\Debug\netcoreapp2.1\31 - Explicit interfaces implementation.runtimeconfig.json
+C:\Github\C-Sharp\31 - Explicit interfaces implementation\bin\Debug\netcoreapp2.1\31 - Explicit interfaces implementation.runtimeconfig.dev.json
+C:\Github\C-Sharp\31 - Explicit interfaces implementation\bin\Debug\netcoreapp2.1\31 - Explicit interfaces implementation.dll
+C:\Github\C-Sharp\31 - Explicit interfaces implementation\bin\Debug\netcoreapp2.1\31 - Explicit interfaces implementation.pdb
+C:\Github\C-Sharp\31 - Explicit interfaces implementation\obj\Debug\netcoreapp2.1\31 - Explicit interfaces implementation.csprojAssemblyReference.cache
+C:\Github\C-Sharp\31 - Explicit interfaces implementation\obj\Debug\netcoreapp2.1\31 - Explicit interfaces implementation.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\31 - Explicit interfaces implementation\obj\Debug\netcoreapp2.1\31 - Explicit interfaces implementation.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\31 - Explicit interfaces implementation\obj\Debug\netcoreapp2.1\31 - Explicit interfaces implementation.AssemblyInfo.cs
+C:\Github\C-Sharp\31 - Explicit interfaces implementation\obj\Debug\netcoreapp2.1\31 - Explicit interfaces implementation.dll
+C:\Github\C-Sharp\31 - Explicit interfaces implementation\obj\Debug\netcoreapp2.1\31 - Explicit interfaces implementation.pdb
