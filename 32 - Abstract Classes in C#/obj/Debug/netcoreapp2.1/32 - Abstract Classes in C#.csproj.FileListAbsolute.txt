@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\32 - Abstract Classes in C#\obj\Debug\netcoreapp2.1\32 - Abstract Classes in C#.csprojAssemblyReference.cache
+C:\Github\C-Sharp\32 - Abstract Classes in C#\obj\Debug\netcoreapp2.1\32 - Abstract Classes in C#.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\32 - Abstract Classes in C#\obj\Debug\netcoreapp2.1\32 - Abstract Classes in C#.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\32 - Abstract Classes in C#\obj\Debug\netcoreapp2.1\32 - Abstract Classes in C#.AssemblyInfo.cs
+C:\Github\C-Sharp\32 - Abstract Classes in C#\bin\Debug\netcoreapp2.1\32 - Abstract Classes in C#.deps.json
+C:\Github\C-Sharp\32 - Abstract Classes in C#\bin\Debug\netcoreapp2.1\32 - Abstract Classes in C#.runtimeconfig.json
+C:\Github\C-Sharp\32 - Abstract Classes in C#\bin\Debug\netcoreapp2.1\32 - Abstract Classes in C#.runtimeconfig.dev.json
+C:\Github\C-Sharp\32 - Abstract Classes in C#\bin\Debug\netcoreapp2.1\32 - Abstract Classes in C#.dll
+C:\Github\C-Sharp\32 - Abstract Classes in C#\bin\Debug\netcoreapp2.1\32 - Abstract Classes in C#.pdb
+C:\Github\C-Sharp\32 - Abstract Classes in C#\obj\Debug\netcoreapp2.1\32 - Abstract Classes in C#.dll
+C:\Github\C-Sharp\32 - Abstract Classes in C#\obj\Debug\netcoreapp2.1\32 - Abstract Classes in C#.pdb
