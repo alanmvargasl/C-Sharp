@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\34 - Problems of multiple class inheritance\obj\Debug\netcoreapp2.1\34 - Problems of multiple class inheritance.csprojAssemblyReference.cache
+C:\Github\C-Sharp\34 - Problems of multiple class inheritance\obj\Debug\netcoreapp2.1\34 - Problems of multiple class inheritance.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\34 - Problems of multiple class inheritance\obj\Debug\netcoreapp2.1\34 - Problems of multiple class inheritance.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\34 - Problems of multiple class inheritance\obj\Debug\netcoreapp2.1\34 - Problems of multiple class inheritance.AssemblyInfo.cs
+C:\Github\C-Sharp\34 - Problems of multiple class inheritance\bin\Debug\netcoreapp2.1\34 - Problems of multiple class inheritance.deps.json
+C:\Github\C-Sharp\34 - Problems of multiple class inheritance\bin\Debug\netcoreapp2.1\34 - Problems of multiple class inheritance.runtimeconfig.json
+C:\Github\C-Sharp\34 - Problems of multiple class inheritance\bin\Debug\netcoreapp2.1\34 - Problems of multiple class inheritance.runtimeconfig.dev.json
+C:\Github\C-Sharp\34 - Problems of multiple class inheritance\bin\Debug\netcoreapp2.1\34 - Problems of multiple class inheritance.dll
+C:\Github\C-Sharp\34 - Problems of multiple class inheritance\bin\Debug\netcoreapp2.1\34 - Problems of multiple class inheritance.pdb
+C:\Github\C-Sharp\34 - Problems of multiple class inheritance\obj\Debug\netcoreapp2.1\34 - Problems of multiple class inheritance.dll
+C:\Github\C-Sharp\34 - Problems of multiple class inheritance\obj\Debug\netcoreapp2.1\34 - Problems of multiple class inheritance.pdb
