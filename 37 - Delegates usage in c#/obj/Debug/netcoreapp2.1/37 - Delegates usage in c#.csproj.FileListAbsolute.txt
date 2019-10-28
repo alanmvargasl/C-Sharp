@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\37 - Delegates usage in c#\bin\Debug\netcoreapp2.1\37 - Delegates usage in c#.deps.json
+C:\Github\C-Sharp\37 - Delegates usage in c#\bin\Debug\netcoreapp2.1\37 - Delegates usage in c#.runtimeconfig.json
+C:\Github\C-Sharp\37 - Delegates usage in c#\bin\Debug\netcoreapp2.1\37 - Delegates usage in c#.runtimeconfig.dev.json
+C:\Github\C-Sharp\37 - Delegates usage in c#\bin\Debug\netcoreapp2.1\37 - Delegates usage in c#.dll
+C:\Github\C-Sharp\37 - Delegates usage in c#\bin\Debug\netcoreapp2.1\37 - Delegates usage in c#.pdb
+C:\Github\C-Sharp\37 - Delegates usage in c#\obj\Debug\netcoreapp2.1\37 - Delegates usage in c#.csprojAssemblyReference.cache
+C:\Github\C-Sharp\37 - Delegates usage in c#\obj\Debug\netcoreapp2.1\37 - Delegates usage in c#.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\37 - Delegates usage in c#\obj\Debug\netcoreapp2.1\37 - Delegates usage in c#.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\37 - Delegates usage in c#\obj\Debug\netcoreapp2.1\37 - Delegates usage in c#.AssemblyInfo.cs
+C:\Github\C-Sharp\37 - Delegates usage in c#\obj\Debug\netcoreapp2.1\37 - Delegates usage in c#.dll
+C:\Github\C-Sharp\37 - Delegates usage in c#\obj\Debug\netcoreapp2.1\37 - Delegates usage in c#.pdb
