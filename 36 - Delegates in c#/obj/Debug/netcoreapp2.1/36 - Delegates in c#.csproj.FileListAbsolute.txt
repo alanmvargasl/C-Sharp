@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\36 - Delegates in c#\bin\Debug\netcoreapp2.1\36 - Delegates in c#.deps.json
+C:\Github\C-Sharp\36 - Delegates in c#\bin\Debug\netcoreapp2.1\36 - Delegates in c#.runtimeconfig.json
+C:\Github\C-Sharp\36 - Delegates in c#\bin\Debug\netcoreapp2.1\36 - Delegates in c#.runtimeconfig.dev.json
+C:\Github\C-Sharp\36 - Delegates in c#\bin\Debug\netcoreapp2.1\36 - Delegates in c#.dll
+C:\Github\C-Sharp\36 - Delegates in c#\bin\Debug\netcoreapp2.1\36 - Delegates in c#.pdb
+C:\Github\C-Sharp\36 - Delegates in c#\obj\Debug\netcoreapp2.1\36 - Delegates in c#.csprojAssemblyReference.cache
+C:\Github\C-Sharp\36 - Delegates in c#\obj\Debug\netcoreapp2.1\36 - Delegates in c#.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\36 - Delegates in c#\obj\Debug\netcoreapp2.1\36 - Delegates in c#.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\36 - Delegates in c#\obj\Debug\netcoreapp2.1\36 - Delegates in c#.AssemblyInfo.cs
+C:\Github\C-Sharp\36 - Delegates in c#\obj\Debug\netcoreapp2.1\36 - Delegates in c#.dll
+C:\Github\C-Sharp\36 - Delegates in c#\obj\Debug\netcoreapp2.1\36 - Delegates in c#.pdb

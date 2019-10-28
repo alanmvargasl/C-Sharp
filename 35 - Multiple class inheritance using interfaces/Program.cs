@@ -45,6 +45,6 @@ namespace _35___Multiple_class_inheritance_using_interfaces
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-        }
+        }  
     }
 }
