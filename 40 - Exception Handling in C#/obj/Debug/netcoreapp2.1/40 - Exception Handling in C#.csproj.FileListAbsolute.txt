@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\40 - Exception Handling in C#\bin\Debug\netcoreapp2.1\40 - Exception Handling in C#.deps.json
+C:\Github\C-Sharp\40 - Exception Handling in C#\bin\Debug\netcoreapp2.1\40 - Exception Handling in C#.runtimeconfig.json
+C:\Github\C-Sharp\40 - Exception Handling in C#\bin\Debug\netcoreapp2.1\40 - Exception Handling in C#.runtimeconfig.dev.json
+C:\Github\C-Sharp\40 - Exception Handling in C#\bin\Debug\netcoreapp2.1\40 - Exception Handling in C#.dll
+C:\Github\C-Sharp\40 - Exception Handling in C#\bin\Debug\netcoreapp2.1\40 - Exception Handling in C#.pdb
+C:\Github\C-Sharp\40 - Exception Handling in C#\obj\Debug\netcoreapp2.1\40 - Exception Handling in C#.csprojAssemblyReference.cache
+C:\Github\C-Sharp\40 - Exception Handling in C#\obj\Debug\netcoreapp2.1\40 - Exception Handling in C#.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\40 - Exception Handling in C#\obj\Debug\netcoreapp2.1\40 - Exception Handling in C#.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\40 - Exception Handling in C#\obj\Debug\netcoreapp2.1\40 - Exception Handling in C#.AssemblyInfo.cs
+C:\Github\C-Sharp\40 - Exception Handling in C#\obj\Debug\netcoreapp2.1\40 - Exception Handling in C#.dll
+C:\Github\C-Sharp\40 - Exception Handling in C#\obj\Debug\netcoreapp2.1\40 - Exception Handling in C#.pdb
