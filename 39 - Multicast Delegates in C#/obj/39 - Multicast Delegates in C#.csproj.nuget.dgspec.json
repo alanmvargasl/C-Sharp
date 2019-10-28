@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Github\\C-Sharp\\39 - Multicast Delegates in C#\\39 - Multicast Delegates in C#.csproj": {}
+  },
+  "projects": {
+    "C:\\Github\\C-Sharp\\39 - Multicast Delegates in C#\\39 - Multicast Delegates in C#.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Github\\C-Sharp\\39 - Multicast Delegates in C#\\39 - Multicast Delegates in C#.csproj",
+        "projectName": "39 - Multicast Delegates in C#",
+        "projectPath": "C:\\Github\\C-Sharp\\39 - Multicast Delegates in C#\\39 - Multicast Delegates in C#.csproj",
+        "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
+        "outputPath": "C:\\Github\\C-Sharp\\39 - Multicast Delegates in C#\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
