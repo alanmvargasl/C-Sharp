@@ -1,0 +1,11 @@
+C:\Github\C-Sharp\38 - Delegates usage in c# continued\bin\Debug\netcoreapp2.1\38 - Delegates usage in c# continued.deps.json
+C:\Github\C-Sharp\38 - Delegates usage in c# continued\bin\Debug\netcoreapp2.1\38 - Delegates usage in c# continued.runtimeconfig.json
+C:\Github\C-Sharp\38 - Delegates usage in c# continued\bin\Debug\netcoreapp2.1\38 - Delegates usage in c# continued.runtimeconfig.dev.json
+C:\Github\C-Sharp\38 - Delegates usage in c# continued\bin\Debug\netcoreapp2.1\38 - Delegates usage in c# continued.dll
+C:\Github\C-Sharp\38 - Delegates usage in c# continued\bin\Debug\netcoreapp2.1\38 - Delegates usage in c# continued.pdb
+C:\Github\C-Sharp\38 - Delegates usage in c# continued\obj\Debug\netcoreapp2.1\38 - Delegates usage in c# continued.csprojAssemblyReference.cache
+C:\Github\C-Sharp\38 - Delegates usage in c# continued\obj\Debug\netcoreapp2.1\38 - Delegates usage in c# continued.csproj.CoreCompileInputs.cache
+C:\Github\C-Sharp\38 - Delegates usage in c# continued\obj\Debug\netcoreapp2.1\38 - Delegates usage in c# continued.AssemblyInfoInputs.cache
+C:\Github\C-Sharp\38 - Delegates usage in c# continued\obj\Debug\netcoreapp2.1\38 - Delegates usage in c# continued.AssemblyInfo.cs
+C:\Github\C-Sharp\38 - Delegates usage in c# continued\obj\Debug\netcoreapp2.1\38 - Delegates usage in c# continued.dll
+C:\Github\C-Sharp\38 - Delegates usage in c# continued\obj\Debug\netcoreapp2.1\38 - Delegates usage in c# continued.pdb
